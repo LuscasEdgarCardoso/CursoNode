@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "CursoNode",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuscasEdgarCardoso/CursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Lucas Cardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuscasEdgarCardoso/CursoNode/issues"
+  },
+  "homepage": "https://github.com/LuscasEdgarCardoso/CursoNode#readme"
+}
